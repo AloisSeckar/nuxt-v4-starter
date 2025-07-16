@@ -1,0 +1,3 @@
+# (2025-07-16) https://stackblitz.com/github/nuxt/starter/tree/v4?file=public%2Frobots.txt
+User-Agent: *
+Disallow:
