@@ -12,7 +12,7 @@ If you want to learn more about Nuxt, visit my [`demos-nuxt`](https://github.com
 1. `git clone https://github.com/AloisSeckar/nuxt-v4-starter.git`
 2. `cd nuxt-v4-starter`
 3. `pnpm install`
-4. `pnpm run dev`
+4. `pnpm dev`
 5. `http://localhost:3000/`
 
 Congratulations. You have working Nuxt app project enhanced with ESLint and you can start building atop it.
