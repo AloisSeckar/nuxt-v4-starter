@@ -1,5 +1,6 @@
 <template>
   <div>
+    <NuxtRouteAnnouncer />
     <h1>nuxt-starter</h1>
     <div>
       Working starter template for a new <a href="https://nuxt.com/">Nuxt</a> <b>v4</b> project
