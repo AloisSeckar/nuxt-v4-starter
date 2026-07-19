@@ -3,7 +3,7 @@
     <NuxtRouteAnnouncer />
     <h1>nuxt-starter</h1>
     <div>
-      Working starter template for a new <a href="https://nuxt.com/">Nuxt</a> <b>v4</b> project
+      Working starter template for a new <a href="https://nuxt.com/">Nuxt</a> <b>v4.5</b> project
     </div>
     <div>
       See my <a href="https://github.com/AloisSeckar/demos-nuxt">demos-nuxt</a>

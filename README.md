@@ -2,7 +2,7 @@
 This is a simple but full functional starter for [Nuxt framework](https://nuxt.com/)
 
 ## About
-It basically contains the same as [Nuxt Starter on StackBlitz](https://stackblitz.com/github/nuxt/starter/tree/v4) featured by Nuxt team as the online playground, but without `<NuxtWelcome>` component and with additional [ESLint](https://eslint.org/) configuration for static JS code analysis (including settings for VS Code for auto-fix on save), which I found very useful and worth adopting from your very first steps.
+It basically contains the same as [Nuxt Starter on StackBlitz](https://stackblitz.com/github/nuxt/starter/tree/v4) featured by Nuxt team as the online playground, but without `<NuxtWelcome>` component and with additional [ESLint](https://eslint.org/) configuration for static JS code analysis (including settings for VS Code for auto-fix on save), which I found very useful and worth adopting from your very first steps. You can also quickly test types using [vue-tsc](https://github.com/vuejs/language-tools).
 
 I recommend this setup for learning and testing purposes or for simple projects only. As a starting point for a real application, I'd advise you consider picking my [`nuxt-ignis`](https://github.com/AloisSeckar/nuxt-ignis) project which provides more useful features and integrations.
 
